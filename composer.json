@@ -1,0 +1,16 @@
+{
+    "name": "denis/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "denim95",
+            "email": "99043807+denim95@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "src\\" : "src/"
+        }
+    }
+}
